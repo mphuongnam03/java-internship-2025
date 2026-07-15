@@ -1,7 +1,6 @@
 ## Annotation
 
 - **Annotation** là một dạng siêu dữ liệu (metadata) cung cấp thông tin bổ sung về chương trình mà không ảnh hưởng trực tiếp đến logic của chương trình. Annotation được sử dụng để cung cấp thông tin cho trình biên dịch, công cụ phát triển, hoặc các framework trong quá trình chạy ứng dụng.
-
   - Có thể dùng cho class, method, variable, package, parameter
 
   - Hai loại: Annotation được tích hợp sẵn - Annotation do người dùng tự định nghĩa

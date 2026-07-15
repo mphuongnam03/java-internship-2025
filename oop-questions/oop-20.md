@@ -57,12 +57,10 @@ class UserService {
 }
 ```
 
-
 ### IoC - Inversion of Control
 
 - **IoC** là một nguyên lý trong kĩ thuật phần mềm, chuyển quyền kiểm soaats các đối tượng hoặc một phần chương trình sang cho một container hoặc framework. IoC thường được dùng trong lập trình hướng đối tướng.
-
-  + Ưu điểm:
+  - Ưu điểm:
     1. Tách biệt việc thực thi một nhiệm vụ khỏi cách triển khai của nó
     2. Dễ dàng chuyển đổi giữa các cách triển khai khác nhau
     3. Tăng tính module cho chương trình
